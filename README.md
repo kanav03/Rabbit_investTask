@@ -32,7 +32,7 @@ A beautiful and intuitive iOS app for comparing mutual fund NAV trends, built wi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/rabbit-invest.git
+[   git clone https://github.com/yourusername/rabbit-invest.git](https://github.com/kanav03/Rabbit_investTask.git)
    cd rabbit-invest
    ```
 
