@@ -315,36 +315,7 @@ The app now uses **live API data** from MFApi.in:
 - **Integration tests**: API service functionality
 - **Performance tests**: Chart rendering with large datasets
 
-## 📋 Future Enhancements
 
-### Potential Features
-- **Portfolio tracking**: Track investment amounts and returns
-- **Notifications**: NAV alerts and market updates  
-- **Detailed analytics**: Performance metrics and ratios
-- **Export functionality**: Share reports and charts
-- **SIP calculator**: Investment planning tools
-- **Market news**: Integrated financial news feed
-- **Watchlist alerts**: Price target notifications
-- **Fund recommendations**: AI-powered suggestions
 
-### Technical Improvements
-- **Offline mode**: Cache NAV data locally
-- **Background sync**: Periodic data updates
-- **Advanced charts**: Candlestick, volume charts  
-- **Enhanced interactivity**: Chart crosshair and tooltips
-- **Biometric login**: Face ID / Touch ID
-- **Widget support**: Quick NAV check from home screen
-- **iPad support**: Optimized layout for larger screens
-- **Accessibility**: VoiceOver and Dynamic Type support
 
-## 📄 License
 
-This project is created for demonstration purposes. MFApi.in data is used under their terms of service.
-
-## 🤝 Contributing
-
-This is a demo project, but suggestions and improvements are welcome!
-
----
-
-**Built with ❤️ using SwiftUI and professional MFD design principles**
